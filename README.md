@@ -1,8 +1,11 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Problem Statement
+Develop a user-friendly search bar that allows users to search for countries by
+name or capital. The challenge focuses on creating efficient search functionality
+with an attractive and intuitive user interface.
+Functional Requirements
+- Create a visually appealing search bar component prominently
+displayed on the homepage and accessible throughout the site.
+- Allow users to input text to search for data/ countries by name or
+capital.
+- Display search suggestions or autocomplete options as the user
+types.
